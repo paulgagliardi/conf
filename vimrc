@@ -18,3 +18,5 @@ set noswapfile
 
 map <S-j> <C-d>
 map <S-k> <C-u>
+nnoremap L 10l
+nnoremap H 10h
